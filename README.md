@@ -8,7 +8,7 @@ This algorithm is based on Baysian theorem, where the posterior possibility coul
 
 ![](images/1.png)
 
-We use this theorem in the model and calculate the possibility of data(x) to be a spicific class of y in all possible conditions, and select the most promising one.
+We use this theorem in the model and calculate the possibility of data(x) to be a specific class of y in all possible conditions, and select the most promising one.
 
 ![](images/2.png)
 
