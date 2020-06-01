@@ -1,7 +1,7 @@
 # Naive-Bayes-Classifier
 Build binary class classifier based on Naive Assumption.
 
-## Descripotion
+## Description
 Here I build a naive bayse classifier which identified whether a given movie review showed subjectivity (1) or objectivity (0). The training data I use is "polarity dataset v2.0" from Cornell University.
 
 This algorithm is based on Baysian theorem, where the posterior possibility could be calculated through prior possibility, likelihood and evidence. 
